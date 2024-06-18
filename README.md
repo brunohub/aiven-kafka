@@ -14,3 +14,7 @@ https://github.com/brunohub/aiven-kafka/assets/17395857/6aafe881-ab1f-43c5-9c47-
 
 https://github.com/brunohub/aiven-kafka/assets/17395857/fa87a6ca-d69a-4fef-b42a-92f433f02452
 
+### Step 4) Running and testing complete solution
+
+https://github.com/brunohub/aiven-kafka/assets/17395857/c64b09a9-5347-4ea6-9840-48868121b4d8
+
