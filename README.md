@@ -4,9 +4,9 @@ This tutorial provides the steps to get started with Aiven Kafka using Apache Fl
 
 ### Step 1: Intro and Kafka Overview
 
-https://github.com/brunohub/aiven-kafka/assets/17395857/22591f05-b8a2-4da0-ba8a-feb679618da5
-
-### Step 2: Running Producer Code
-
 https://github.com/brunohub/aiven-kafka/assets/17395857/a6c7a4b3-6e5d-4a85-b89c-8ddeb221f19c
+
+### Step 2: Running and Testing Producer App
+
+https://github.com/brunohub/aiven-kafka/assets/17395857/6aafe881-ab1f-43c5-9c47-d60107504c13
 
