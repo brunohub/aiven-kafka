@@ -18,3 +18,6 @@ https://github.com/brunohub/aiven-kafka/assets/17395857/fa87a6ca-d69a-4fef-b42a-
 
 https://github.com/brunohub/aiven-kafka/assets/17395857/c64b09a9-5347-4ea6-9840-48868121b4d8
 
+### Step 5) Integrations - Observability and Monitoring 
+
+https://github.com/brunohub/aiven-kafka/assets/17395857/98f28ddc-c7d2-41fd-900d-b158f6ef73ad
